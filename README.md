@@ -30,8 +30,10 @@ STEP 9: For the prediction of the next digit proceed from step 1 to 8.
 
 STEP 10: Activate the stop command to terminate the program.
 
-![Screenshot](/docs/Screenshot.png)
 
 ## Result
 
 The overall validation accuracy of 97% is obtained in the recognition process by the Convolution Neural Network.
+
+![Screenshot](/docs/Screenshot.png)
+
