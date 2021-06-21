@@ -37,3 +37,6 @@ The overall validation accuracy of 97% is obtained in the recognition process by
 
 ![Screenshot](/docs/Screenshot.png)
 
+## License
+
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
