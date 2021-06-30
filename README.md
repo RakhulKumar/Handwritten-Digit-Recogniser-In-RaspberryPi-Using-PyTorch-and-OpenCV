@@ -8,6 +8,16 @@
 
 ▪ To implement this, Scikit and OpenCV are used for image processing and PyTorch is used for deep learning.
 
+## Requirements
+
+* RaspberryPi Model 3 or 4
+
+* PyTorch v1.7.1 or higher
+
+* OpenCV v3.4.2
+
+* scikit-image v0.15.0
+
 ## Algorithm
 
 STEP 1: Open the terminal in RPi and run the ‘Digit_Recognizer.py’ file. This will automatically start an input video frame.   
@@ -33,7 +43,7 @@ STEP 10: Activate the stop command to terminate the program.
 
 ## Result
 
-The overall validation accuracy of 97% is obtained in the recognition process by the Convolution Neural Network.
+Overall validation accuracy of 97% is obtained in the recognition process by the Convolution Neural Network.
 
 ![Screenshot](/docs/Screenshot.png)
 
